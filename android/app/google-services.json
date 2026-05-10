@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "866718998655",
-    "project_id": "evenly-c16-mon",
-    "storage_bucket": "evenly-c16-mon.firebasestorage.app"
+    "project_number": "49818994677",
+    "project_id": "evently-c18-7a7a3",
+    "storage_bucket": "evently-c18-7a7a3.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:866718998655:android:d245d5f8a9229234225f4a",
+        "mobilesdk_app_id": "1:49818994677:android:13a03eb92b627e7b5982bc",
         "android_client_info": {
           "package_name": "com.example.evently_c16_mon"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDJnknMVY79cbCImCk1_j_WvDLkFIBXBGI"
+          "current_key": "AIzaSyBnR9SXwNm-xThd050cqCPIaM3pyW1R5Bk"
         }
       ],
       "services": {
